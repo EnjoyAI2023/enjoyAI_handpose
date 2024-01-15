@@ -1,16 +1,41 @@
+<p>
+<img src="sample/logo.png"  width="148" height ="63" align = "middle" />
+</p>
+
 # enjoyAI_handpose
+
 
 * [中文 Chinese]()
 * [英文 English](/doc/English.md)
 
 ## 介绍
-我们是手势识别技术解决方案专家，提供tof（time of flight）相机 & 彩色相机 & 灰度相机等手势识别（第三人称&第一人称）解决方案
-## 一、手势姿态
+### 一家致力于打造，更自然 更方便人机交互方式的公司。
+### 我们自研的手势识别算法解决方案,具备以下优势:
 
+1）支持相机包括：
+* tof（time of flight）相机。
+* 彩色相机。
+* 灰度相机。
+
+2）支持小畸变和大畸变相机（如鱼眼相机）。
+
+3）支持第三人称、第一人称手势交互。
+
+4）支持多种定义手势。
+
+5）支持指定相机以及核心算力芯片算法方案定制化服务。
+
+## 一、手势姿态
+### 第三人称手势交互
 ![demo1](sample/demo-1.gif)
 
 ![demo2](sample/demo-2.gif)
 
+### 第一人称手势交互
+
+![demo3](sample/demo-3.gif)
+
 ## 联系方式
+
 
 * enjoyai@geefish.com
