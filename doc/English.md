@@ -6,7 +6,7 @@
 
 # enjoyAI_handpose
 
-* [Chinese](../README.md)
+* [Chinese](https://github.com/EnjoyAI2023/enjoyAI_handpose)     
 * [English](/doc/English.md)
 * [GeeFish Co.Ltd Introduction](/doc/极鱼科技GeeFish-20230520.pdf)
 
