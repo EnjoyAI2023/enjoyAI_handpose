@@ -7,6 +7,7 @@
 
 * [中文 Chinese]()
 * [英文 English](/doc/English.md)
+* [公司相关介绍](/doc/极鱼科技GeeFish-20230520.pdf)
 
 ## 介绍
 ### 一家致力于打造，更自然 更方便人机交互方式的公司。
