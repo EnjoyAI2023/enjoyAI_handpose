@@ -8,7 +8,7 @@
 
 * [Chinese](../README.md)
 * [English](/doc/English.md)
-* [GeeFish Co.Ltd Introduction"](/doc/极鱼科技GeeFish-20230520.pdf)
+* [GeeFish Co.Ltd Introduction](/doc/极鱼科技GeeFish-20230520.pdf)
 
 # Introduction
 
