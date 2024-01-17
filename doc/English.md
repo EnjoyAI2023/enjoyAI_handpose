@@ -23,7 +23,7 @@
 
 3) Support for third-person and first-person gesture interaction.
 
-4) Support for multiple predefined gestures.
+4) Support for multiple predefined gestures:One、Two、Three、Four、Five、PinchIndex、PinchMiddle、PinchRing、PinchPink、Fist、ThumbUp、Six、Rock。
 
 5) Customization services for designated cameras and core algorithm solutions.
 
@@ -38,6 +38,10 @@
 ### first-person gesture interaction
 
 ![demo3](../sample/demo-3.gif)
+
+### Gestures
+
+![demo4](../sample/demo-4.gif)
 
 ## Contact information
 
