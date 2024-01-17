@@ -22,7 +22,7 @@
 
 3）支持第三人称、第一人称手势交互。
 
-4）支持多种定义手势。
+4）支持多种定义手势如 One、Two、Three、Four、Five、PinchIndex、PinchMiddle、PinchRing、PinchPink、Fist、ThumbUp、Six、Rock。
 
 5）支持指定相机以及核心算力芯片算法方案定制化服务。
 
@@ -35,6 +35,10 @@
 ### 第一人称手势交互
 
 ![demo3](sample/demo-3.gif)
+
+### 支持的手势定义
+
+![demo3](sample/demo-4.gif)
 
 ## 联系方式
 
